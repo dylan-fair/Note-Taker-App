@@ -1,0 +1,22 @@
+{
+  "name": "lesson_11",
+  "version": "1.0.0",
+  "description": "Note taking app using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylan-fair/Note-Taker-App.git"
+  },
+  "author": "Dylan fair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylan-fair/Note-Taker-App/issues"
+  },
+  "homepage": "https://github.com/dylan-fair/Note-Taker-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
