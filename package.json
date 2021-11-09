@@ -2,9 +2,10 @@
   "name": "lesson_11",
   "version": "1.0.0",
   "description": "Note taking app using express.js",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
